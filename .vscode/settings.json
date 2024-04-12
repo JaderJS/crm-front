@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "Atribuido",
+        "Atribuidos",
+        "CONNECTIONBOARD",
+        "DATEAPPOINTMENT",
+        "DDMMAAAA",
+        "fieldrequired",
+        "Kanban",
+        "LONGTEXT",
+        "Onekr",
+        "POPUPSHORTTEXT",
+        "PRIMITIVESELECTPROJECTS",
+        "PROJECTSPAGE",
+        "SELECTINFOS",
+        "SHORTTEXT"
+    ],
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
